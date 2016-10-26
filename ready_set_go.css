@@ -1,0 +1,21 @@
+﻿.header{
+	background-color:#005E91;
+}
+
+
+
+.main{
+	background-color:#8DCED0;
+}
+
+.footer{
+	background-color:#603813;
+	height:52px;
+}
+
+.copyrighgt{
+	text-align:center;
+	padding:10px;
+	font:normal 12px/1em sanserif;
+	color:#fff;
+}
